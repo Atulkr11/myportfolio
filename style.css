@@ -116,9 +116,9 @@ header {
 
 .about-content img {
   height: 150px;
-  width: 150px;
-  object-fit: cover;
-  border-radius: 35%;
+  width: 145px;
+  object-fit: scale-down;
+  border-radius: 50%;
 }
 
 .about-content p {
@@ -199,21 +199,27 @@ header {
 .progress-line .html {
   width: 90%;
 }
+
 .progress-line .css {
   width: 80%;
 }
+
 .progress-line .bootstrap {
   width: 70%;
 }
+
 .progress-line .javascript {
   width: 75%;
 }
+
 .progress-line .c {
   width: 95%;
 }
+
 .progress-line .cplusplus {
   width: 83%;
 }
+
 .progress-line .java {
   width: 87%;
 }
@@ -247,21 +253,27 @@ header {
 .progress-line .html::after {
   content: "90%";
 }
+
 .progress-line .css::after {
   content: "80%";
 }
+
 .progress-line .bootstrap::after {
   content: "70%";
 }
+
 .progress-line .javascript::after {
   content: "75%";
 }
+
 .progress-line .c::after {
   content: "95%";
 }
+
 .progress-line .cplusplus::after {
   content: "83%";
 }
+
 .progress-line .java::after {
   content: "87%";
 }
