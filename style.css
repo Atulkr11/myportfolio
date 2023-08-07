@@ -731,11 +731,6 @@ header {
   }
 }
 
-blink {
-  color: red;
-  font-size: 15px;
-}
-
 .footer {
   background: linear-gradient(to right, orange 0 33%,white 33% 66%, green 66% 100%);
   grid-area: last;
