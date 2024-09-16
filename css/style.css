@@ -197,7 +197,7 @@ header {
 }
 
 .progress-line .html {
-  width: 90%;
+  width: 92%;
 }
 
 .progress-line .css {
@@ -251,7 +251,7 @@ header {
 }
 
 .progress-line .html::after {
-  content: "90%";
+  content: "92%";
 }
 
 .progress-line .css::after {
