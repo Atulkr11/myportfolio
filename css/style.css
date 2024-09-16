@@ -213,7 +213,7 @@ header {
 }
 
 .progress-line .c {
-  width: 95%;
+  width: 88%;
 }
 
 .progress-line .cplusplus {
@@ -267,7 +267,7 @@ header {
 }
 
 .progress-line .c::after {
-  content: "95%";
+  content: "88%";
 }
 
 .progress-line .cplusplus::after {
